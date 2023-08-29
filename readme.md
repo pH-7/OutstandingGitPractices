@@ -1,5 +1,7 @@
 # Outstanding Git Practices
 
+### The 2 most important guidelines when committing your code
+
 - [Commit Messages](#commit-messages-)
 - [Commit Commits](#git-commits-)
 - [About the Author](#about-the-author-)
@@ -14,9 +16,7 @@ Additionally, adding the ticket ID at the beginning of your commit message. Some
 
 ## Git commits 🎨
 
-✅ Each commit should be small and fix only one thing per commit, not more.
-
-Following this good rule, if your commit message contains the word `and` or `+`, that means you try to commit multiple changes in one commit and you shouldn’t ❌
+✅ Each commit should be small and fix only one thing per commit, not more. Following this important rule, if your commit message contains the word `and` or `+`, that means you are trying to commit multiple changes in one commit and you shouldn’t ❌
 
 This rule is not just there to be nice. When you need to revert or cherry-pick a commit from your git history, the fact that one commit only contains one specific update really helps.
 
