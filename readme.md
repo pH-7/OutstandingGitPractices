@@ -8,7 +8,7 @@
 
 ## Commit messages 📝
 
-Commit messages play a big role in the understanding of every change. They should be short, clear and explicit. They should clearly say what happened as well as the reason/motivation behind the change. Ask yourself "*What are the changes done for?*". In short, the explanation that we don't necessarily see in the code diff of the commit.
+Commit messages play a big role in the understanding of every change. They should be in present tense, short, clear and explicit. They should clearly say what happened as well as the reason/motivation behind the change. Ask yourself “*What are the changes done for?*”. In another word “*Why you did what you did?*”. In short, the explanation that we don't necessarily see in the code diff of the commit.
 
 Additionally, adding the ticket ID at the beginning of your commit message. Sometimes, we need to know the reason why a piece of code has been changed and need to dig into the ticket to have a full understanding of the feature requirements.
 
