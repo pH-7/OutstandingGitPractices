@@ -22,7 +22,7 @@ Additionally, add the ticket ID at the beginning of your commit message. Sometim
 
 ✅ Each commit should be small and fix only one thing per commit, not more. Following this important rule, if your commit message contains the word `and` or `+`, that means you are trying to commit multiple changes in one commit and you shouldn't ❌
 
-This rule is not just there to be nice. When you need to revert or cherry-pick a commit from your git history, the fact that one commit only contains one specific update really helps.
+This rule is not just there to be nice. When you need to `git revert` or `cherry-pick` a commit from your git history, the fact that one commit only contains one specific update really helps.
 
 ## About the Author 👨‍🍳
 
