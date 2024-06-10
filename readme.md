@@ -8,18 +8,21 @@
 
 ## Commit messages 📝
 
-Commit messages play a big role in the understanding of every change. They should be in present tense, short, clear and explicit. They should clearly say what happened as well as the reason/motivation behind the change. Ask yourself “*What are the changes done for?*”. In another word “*Why you did what you did?*”. In short, the explanation that we don't necessarily see in the code diff of the commit.
+Commit messages play a big role in the understanding of every change. They should be in present tense, short, clear and explicit. 
 
-Additionally, adding the ticket ID at the beginning of your commit message. Sometimes, we need to know the reason why a piece of code has been changed and need to dig into the ticket to have a full understanding of the feature requirements.
+They should clearly say **what happened** as well as the **reason**/**motivation** behind the change. 
+
+Ask yourself "*What are the changes done for?*". In other words, "*Why you did what you did?*". In short, the explanation that we don't necessarily see in the code diff of the commit.
+
+Additionally, add the ticket ID at the beginning of your commit message. Sometimes, we need to know the reason why a piece of code has been changed and need to dig into the ticket to have a full understanding of the feature requirements.
 
 ---
 
 ## Git commits 🎨
 
-✅ Each commit should be small and fix only one thing per commit, not more. Following this important rule, if your commit message contains the word `and` or `+`, that means you are trying to commit multiple changes in one commit and you shouldn’t ❌
+✅ Each commit should be small and fix only one thing per commit, not more. Following this important rule, if your commit message contains the word `and` or `+`, that means you are trying to commit multiple changes in one commit and you shouldn't ❌
 
 This rule is not just there to be nice. When you need to revert or cherry-pick a commit from your git history, the fact that one commit only contains one specific update really helps.
-
 
 ## About the Author 👨‍🍳
 
