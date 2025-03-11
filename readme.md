@@ -3,7 +3,7 @@
 ### The 2 most important guidelines when committing your code
 
 - [Commit Messages](#commit-messages-)
-- [Commit Commits](#git-commits-)
+- [Git Commits](#git-commits-)
 - [About the Author](#about-the-author-)
 
 ## Commit messages 📝
