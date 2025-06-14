@@ -12,7 +12,7 @@ Commit messages play a big role in the understanding of every change. They shoul
 
 They should clearly say **what happened** as well as the **reason**/**motivation** behind the change. 
 
-Ask yourself, “*What are the changes done for?*” In other words, *“Why you did what you did?”* - In short, it is the explanation that we don't necessarily see in the code diff of the commit.
+Ask yourself, “*What are the changes done for?*” In other words, *“Why did you do what you did?”* - In short, it is the explanation that we don't necessarily see in the code diff of the commit.
 
 Additionally, add the ticket ID at the beginning of your commit message. Sometimes, we need to know the reason why a piece of code has been changed and need to dig into the ticket to have a full understanding of the feature requirements.
 
