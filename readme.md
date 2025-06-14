@@ -1,12 +1,12 @@
 # Outstanding Git Practices
 
-### The 2 most important guidelines when committing your code
+### The 2 Most Important Guidelines When Committing Your Code
 
 - [Commit Messages](#commit-messages-)
 - [Git Commits](#git-commits-)
 - [About the Author](#about-the-author-)
 
-## Commit messages 📝
+## Commit Messages 📝
 
 Commit messages play a big role in the understanding of every change. They should be in present tense, short, clear and explicit. 
 
@@ -18,7 +18,7 @@ Additionally, add the ticket ID at the beginning of your commit message. Sometim
 
 ---
 
-## Git commits 🎨
+## Git Commits 🎨
 
 ✅ Each commit should be small and fix only one thing per commit, not more. Following this important rule, if your commit message contains the word `and` or `+` sign, that means you are trying to commit multiple changes in one commit and you shouldn't ❌
 
